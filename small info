@@ -1,0 +1,1 @@
+Remember the hidden_layer[0] is just techinically layer[1] because is the hidden is just all the layers between layer 0 and layer L.
